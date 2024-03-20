@@ -32,4 +32,4 @@ python arrow_detection.py
 - Yagna Rao
 
 **Contact:**
-For any queries or issues, contact [Yagna Rao](yagnarao15@gmail.com).
+For any queries or issues, contact yagnarao15@gmail.com.
