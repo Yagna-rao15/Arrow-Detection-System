@@ -8,6 +8,7 @@ This project implements an arrow detection system utilizing template matching an
 2. Connect the camera to the system.
 3. Run the script to initiate the arrow detection system.
 4. Press 'q' to exit the application.
+5. Make sure that you update the location of the images in the code
 
 **Files:**
 - `arrow_detection.py`: Python script for arrow detection.
